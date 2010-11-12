@@ -1,7 +1,7 @@
 # Default rEmo theme - http://simplesmileys.org/
 "((0|O|o)(:\)|:-\))|\(A\))": "Angel.png"
 "(:@|:-@|\):\()": "Angry.png"
-"((\'|\*|\°)(w|W)(\'|\*|\°)|(:\})|(:-\}))": "Aww.png"
+"((\'|\*)(w|W)(\'|\*)|(:\})|(:-\}))": "Aww.png"
 "(\^(w|W)\^)": "Aww_2.png"
 "(:(\"|')>)": "Blushing.png"
 "((:|:-)(C|c))": "Childish.png"
